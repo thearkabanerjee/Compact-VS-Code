@@ -1,0 +1,21 @@
+{
+  "name": "compact-vs-code",
+  "displayName": "Compact-VS-Code",
+  "description": "makes your vs code setup very minimalistic and compact",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Compact-VS-Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Compact-VS-Code-color-theme.json"
+      }
+    ]
+  }
+}
