@@ -15,7 +15,10 @@
       "files.autoSave": "afterDelay",
       "editor.minimap.autohide": "mouseover",
       "workbench.activityBar.location": "hidden",
-      "workbench.statusBar.visible": false
+      "workbench.statusBar.visible": false,
+      "workbench.startupEditor": "none",
+      "workbench.tips.enabled": false
+
     },
     "themes": [
       {
