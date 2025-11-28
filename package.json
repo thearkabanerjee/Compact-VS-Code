@@ -13,7 +13,9 @@
     "configurationDefaults": {
       "editor.fontSize": 14,
       "files.autoSave": "afterDelay",
-      "editor.minimap.autohide": "mouseover"
+      "editor.minimap.autohide": "mouseover",
+      "workbench.activityBar.location": "hidden",
+      "workbench.statusBar.visible": false
     },
     "themes": [
       {
