@@ -6,6 +6,7 @@
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"selection.background": "#3d375e7f",
+    
 	},
 	"tokenColors": [
   {
