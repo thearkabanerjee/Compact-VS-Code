@@ -15,7 +15,7 @@
       "files.autoSave": "afterDelay",
       "workbench.editor.showTabs": "single",
       "editor.minimap.autohide": "mouseover",
-      "workbench.activityBar.location": "hidden",
+      "editor.lineHeight": 2,
       "workbench.statusBar.visible": false,
       "workbench.startupEditor": "none",
       "workbench.tips.enabled": false,
