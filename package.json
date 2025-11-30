@@ -13,7 +13,7 @@
     "configurationDefaults": {
       "editor.fontSize": 14,
       "files.autoSave": "afterDelay",
-      "workbench.editor.showTabs": "single",
+      "workbench.editor.showTabs": "multiple",
       "editor.minimap.autohide": "mouseover",
       "editor.lineHeight": 2,
       "workbench.statusBar.visible": false,
