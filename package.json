@@ -17,7 +17,7 @@
       "editor.minimap.autohide": "mouseover",
       "editor.lineHeight": 2,
       "workbench.statusBar.visible": false,
-      "workbench.startupEditor": "none",
+      "workbench.startupEditor": "welcomePage",
       "workbench.tips.enabled": false,
       "breadcrumbs.enabled": false
 
