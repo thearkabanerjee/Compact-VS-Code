@@ -13,20 +13,24 @@
     "configurationDefaults": {
       "editor.fontSize": 14,
       "files.autoSave": "afterDelay",
-      "workbench.editor.showTabs": "multiple",
-      "editor.minimap.autohide": "mouseover",
+      // "workbench.editor.showTabs": "multiple",
+      // "editor.minimap.autohide": "mouseover",
       "editor.lineHeight": 2,
-      "workbench.statusBar.visible": false,
       "workbench.startupEditor": "welcomePage",
-      "workbench.tips.enabled": false,
-      "breadcrumbs.enabled": false
+      "workbench.tips.enabled": false
 
     },
     "themes": [
       {
-        "label": "Compact-VS-Code",
+        "label": "Perry-the-Platypus",
         "uiTheme": "vs-dark",
-        "path": "./themes/Compact-VS-Code-color-theme.json"
+        "path": "./themes/perry-the-platypus.json"
+      },
+
+      {
+        "label": "Anya",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anya.json"
       }
     ]
   }

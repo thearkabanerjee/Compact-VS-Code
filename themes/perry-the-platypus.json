@@ -1,7 +1,7 @@
 {
-  "name": "Compact-VS-Code",
-  "displayName": "Compact-VS-Code",
-  "description": "A dark theme inspired by Giyu Tomioka from Demon Slayer.",
+  "name": "Perry-the-platypus",
+  "displayName": "perry-the-platypus",
+  "description": "A dark theme inspired by Perry the Platypus from Phineas and Ferb.",
   "type": "dark",
   "colors": {
     "focusBorder": "#00BCD4",
