@@ -1,9 +1,3 @@
 # Change Log
 
-All notable changes to the "compact-vs-code" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+1. ok so the first change log that needs to be done is that i need to add more themes and just make it better
