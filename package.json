@@ -1,8 +1,16 @@
 {
   "name": "compact-vs-code",
   "displayName": "Compact-VS-Code",
-  "description": "makes your vs code setup very minimalistic and compact",
+  "description": "makes your vs code setup very minimalistic and compact and the themes are inspired from some of the most loved characters",
   "version": "0.0.1",
+  "publisher": "ArkaBanerjee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thearkabanerjee/Compact-VS-Code"
+  },
+  "keywords": [
+    
+  ],
   "engines": {
     "vscode": "^1.106.1"
   },
@@ -13,8 +21,6 @@
     "configurationDefaults": {
       "editor.fontSize": 14,
       "files.autoSave": "afterDelay",
-      // "workbench.editor.showTabs": "multiple",
-      // "editor.minimap.autohide": "mouseover",
       "editor.lineHeight": 2,
       "workbench.startupEditor": "welcomePage",
       "workbench.tips.enabled": false
