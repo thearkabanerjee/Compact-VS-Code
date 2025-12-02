@@ -1,6 +1,6 @@
 {
   "name": "compact-vs-code",
-  "displayName": "Compact-VS-Code",
+  "displayName": "Compact VS Code",
   "description": "makes your vs code setup very minimalistic and compact and the themes are inspired from some of the most loved characters",
   "version": "0.1.1",
   "publisher": "ArkaBanerjee",
@@ -10,7 +10,14 @@
   },
   "icon": "images/logo.png",
   "keywords": [
-
+    "theme",
+    "color theme",
+    "hashira",
+    "demon slayer",
+    "anime",
+    "dark",
+    "light",
+    "anya", "spy x family", "cartoons", "vs code theme"
   ],
   "engines": {
     "vscode": "^1.106.1"
