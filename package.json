@@ -3,6 +3,9 @@
   "displayName": "Compact VS Code",
   "description": "makes your vs code setup very minimalistic and compact and the themes are inspired from some of the most loved characters",
   "version": "1.1.1",
+  "author": {
+    "name": "Arka Banerjee"
+  },
   "publisher": "ArkaBanerjee",
   "repository": {
     "type": "git",
